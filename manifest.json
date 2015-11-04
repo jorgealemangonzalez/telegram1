@@ -10,6 +10,7 @@
     }
   },
   "permissions": [
+    "internet",
     "notifications",
     "webview",
     {"fileSystem": ["write"]},
